@@ -1,0 +1,7 @@
+[project]
+name = "so101-pick-place"
+version = "0.1.0"
+description = "SO-101 pick-and-place robotics experiments using LeRobot."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = []
